@@ -1,0 +1,10 @@
+
+O
+java:S32522"9Use static access with "org.openqa.selenium.By" for "id".(∞ÙÇ≥
+P
+java:S1128	":Remove this unused import 'org.openqa.selenium.WebDriver'.(Òöˇ¿
+o
+java:S2293#"YReplace the type specification in this constructor call with the diamond operator ("<>").(ú‚√ˇ
+T
+java:S11557">Use isEmpty() to check whether the collection is empty or not.(√∂•º
+a	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ù∂Ñ<

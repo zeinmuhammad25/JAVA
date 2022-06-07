@@ -1,0 +1,17 @@
+
+v
+java:S1450"[Remove the "capabilities" field and declare it as a local variable in the relevant methods.(È£Šäıÿÿÿÿ
+p
+java:S1450"URemove the "driver" field and declare it as a local variable in the relevant methods.(×‹åÔüÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(¾¯›°
+F
+java:S1905!"0Remove this unnecessary cast to "MobileElement".(Ã—²Í
+N	java:S106#"9Replace this use of System.out or System.err by a logger.( ÕîŞ
+F
+java:S1905("0Remove this unnecessary cast to "MobileElement".(ÁÏÔÈ
+S	java:S106*"9Replace this use of System.out or System.err by a logger.(“ñøøÿÿÿÿ
+S	java:S106."9Replace this use of System.out or System.err by a logger.(şÒãûÿÿÿÿ
+M	java:S1062"9Replace this use of System.out or System.err by a logger.(â’Ó
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(‚Ø÷
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(æÇº

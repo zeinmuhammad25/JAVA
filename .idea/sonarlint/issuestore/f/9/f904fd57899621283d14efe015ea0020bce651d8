@@ -1,0 +1,12 @@
+
+O
+java:S3252*"9Use static access with "org.openqa.selenium.By" for "id".(°ô‚³
+N
+java:S1128"8Remove this unused import 'java.util.function.Function'.(»³Íž
+P
+java:S1128
+":Remove this unused import 'org.openqa.selenium.WebDriver'.(ñšÿÀ
+o
+java:S2293!"YReplace the type specification in this constructor call with the diamond operator ("<>").(œâÃÿ
+T
+java:S1155/">Use isEmpty() to check whether the collection is empty or not.(Ã¶¥¼
