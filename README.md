@@ -1,4 +1,4 @@
-Pada main terdapat latihan :
+Pada folder SRC/main terdapat latihan :
 
 1. OOP pada java
 2. Automation mobile
